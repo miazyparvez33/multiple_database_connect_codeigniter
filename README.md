@@ -8,4 +8,4 @@ Sometimes we need to use two or multiple database for a single site. If you need
 
 3.Using direct load db instance :- after set configuration we need to only load and use database objects.like that in view file as i am loding
 
-4.how to load library in model/controller and view you can find here in model-controlle_view.php
+4.how to load library in model/controller and view you can find here in model-controller_view.php
